@@ -31,6 +31,17 @@
 - 📬 How to reach me: **tranafbaskevin@gmail.com** or **[tranafbaskevin.github.io](https://tranafbaskevin.github.io/)**
 - ⚡ Fun fact: **I can convert my face into ASCII art for GitHub profile! 😁**
 
+### 🚀 Featured Projects & Work
+
+- 📖 **KevDex**: Dark mode Google Drive comic reader app built with Flutter.
+- 🎮 **Memory Distortion**: Indie horror game project developed with Godot Engine.
+- 🌐 **Linhapple Web**: Web application & digital ecosystem tailored for Linhapple.
+- 💻 **Portfolio Hacker System**: Interactive cyberpunk/hacker-themed personal portfolio website.
+- ⚙️ **Linux Arch Customize**: Custom Arch Linux rice, system configurations, and dotfiles setup.
+- 🧠 **Dora Memories Core**: Core system framework & backend memory management module.
+- 🤖 **Discord Game Bot**: Interactive game bot integration with custom commands for Discord communities.
+- 📱 **iOS Premium Certificate**: iOS IPA signing, sideloading tools & certificate management for premium apps.
+
 <p align="center">
   <img src="https://github.com/user-attachments/assets/243a2b05-e176-4db4-b14b-669decd71c9d" width="100%" alt="Steam Zzz GIF" />
 </p>
