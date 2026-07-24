@@ -31,4 +31,6 @@
 - 📬 How to reach me: **tranafbaskevin@gmail.com** or **[tranafbaskevin.github.io](https://tranafbaskevin.github.io/)**
 - ⚡ Fun fact: **I can convert my face into ASCII art for GitHub profile! 😁**
 
-<img width="318" height="480" alt="Steam Zzz GIF" src="https://github.com/user-attachments/assets/243a2b05-e176-4db4-b14b-669decd71c9d" />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/243a2b05-e176-4db4-b14b-669decd71c9d" width="100%" alt="Steam Zzz GIF" />
+</p>
