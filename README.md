@@ -22,16 +22,14 @@
 ---------:--:--::++: .@###@W.%=+::::-::-:::::     Repos: .... 6 | Stars: .... 1 | Commits: .... 276
 -------:--::::::..+++.. .....+W=.::::::::::::     
 ::::::::::::.:::::+:# ..:...=W+.::::::::::::.
-<!--
 
-- 🔭 I’m currently working on **KevDex & Memory Distortion ( HORROR GAME )**
-- 🌱 I’m currently learning **Flutter, Game Development with Godot & System Architecture**
-- 👯 I’m looking to collaborate on **Open-source Flutter apps or Indie Game projects**
-- 🤝 I’m looking for help with **Advanced Mobile App Optimization**
+- 🔭 I'm currently working on **KevDex & Memory Distortion ( HORROR GAME )**
+- 🌱 I'm currently learning **Flutter, Game Development with Godot & System Architecture**
+- 👯 I'm looking to collaborate on **Open-source Flutter apps or Indie Game projects**
 - 💬 Ask me about **Flutter, GDScript, Dark Mode designs & UI/UX**
-- 📫 How to reach me: **tranafbaskevin@gmail.com** or **(tranafbaskevin.github.io)[https://tranafbaskevin.github.io/]**
-- ⚡ Fun fact: **I can convert my face into ASCII art for GitHub profile! 😎**
+- 📬 How to reach me: **tranafbaskevin@gmail.com** or **[tranafbaskevin.github.io](https://tranafbaskevin.github.io/)**
+- ⚡ Fun fact: **I can convert my face into ASCII art for GitHub profile! 😁**
 
 <p align="center">
-  <img src="https://i.giphy.com/oDQcAOmodpb9u.gif" width="100%" alt="Header GIF" />
+  <img src="https://i.giphy.com/cDQCa0modpb9u.gif" width="100%" alt="Header GIF" />
 </p>
