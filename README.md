@@ -32,3 +32,6 @@
 - 📫 How to reach me: **tranafbaskevin@gmail.com** or **(tranafbaskevin.github.io)[https://tranafbaskevin.github.io/]**
 - ⚡ Fun fact: **I can convert my face into ASCII art for GitHub profile! 😎**
 
+<p align="center">
+  <img src="https://i.giphy.com/oDQcAOmodpb9u.gif" width="100%" alt="Header GIF" />
+</p>
