@@ -1,16 +1,34 @@
-## Hi there 👋
-
+```text
+:+*%::---------------:    .---------:::--:::-     tranafbaskevin@github
+-++**------------       :   :  :-----:-+-+-+-     ---------------------
+-----+----+--+:: :.-:.-:-.  :.: : +++++----++     OS: ....................... macOS, Windows, Android, Ios, Linux
+++++-++-+-+++. .+-=***=%**====...+.:++-++++==     Uptime: ................................... 2 years
+++++++++++++..:*%%%%%%%%%%%%%%%%%::+-++-+-++=     Role: ................. Multi-stack Developer / Student
++++++++++++-..+*%%%%%%%%%###%%%%%=-:.+--=-*-=     IDE: ............................... VS Code, Android Studio, Godot
+++++++++=+++..=%%:++.-####%*==-%%*   ==+*---+     
++=++++==+--:#%@ %%#***-*%M *%*%#.-  .+-==--==     Languages.Programming: ..... Dart, JavaScript, GDScript
++++=+++=+-:%#%=##%*=+* %@-%===%%%%#@=+++====-     Languages.Web: ............. HTML, CSS, React, Flutter
+=====+++-::@%%=#####% %#@# ##### %@%@--+++=-+     Languages.Real: ............ Vietnamese, English
++=+=++++--::@%%%%%%=*=+**:+%=%##%=#@=+*=*+:=-     
+====++++---::::%%%%==-+===+*%*%%#:++=====+==+     Hobbies.Software: .......... Mobile Apps, Game Dev, Web
++=++++++-----:..%%%%**%W@@%%#%%#:-++.-=++*-*-     Hobbies.Hardware: .......... Tech Gadgets, PC Building
+=+=+=+++------::.%%%%%*==*%##%*.:-+==+#=*+*-*     
++++==+++-------::*%*%%###@##*%#.:-+=+==-*=-+-     - Contact -------------------------------------------
++=+=+++++------:.%%%%%==+=*%###.-++=:=++-+==+     Email: ...................... tranafbaskevin@gmail.com
+==+=++=++-----: .%%%%%%%%%%##@##--+=+=+*-*===     GitHub: .................... github.com/tranafbaskevin
+==+===++--:   -%:+*%%%%%%%##@@@=..: .-**-=+=+     Facebook: .................. fb.com/tranafbaskevin
+==+::.:::... ..%= *%%%%%%#####@+-::.:..:.::..     
+:::--:::--:::::..-.%%%#%%###@#+::..:.:-::::::     - GitHub Stats --------------------------------------
+---------:--:--::++: .@###@W.%=+::::-::-:::::     Repos: .... 6 | Stars: .... 1 | Commits: .... 276
+-------:--::::::..+++.. .....+W=.::::::::::::     
+::::::::::::.:::::+:# ..:...=W+.::::::::::::.
 <!--
-**tranafbaskevin/tranafbaskevin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on **KevDex & Memory Distortion ( HORROR GAME )**
+- 🌱 I’m currently learning **Flutter, Game Development with Godot & System Architecture**
+- 👯 I’m looking to collaborate on **Open-source Flutter apps or Indie Game projects**
+- 🤝 I’m looking for help with **Advanced Mobile App Optimization**
+- 💬 Ask me about **Flutter, GDScript, Dark Mode designs & UI/UX**
+- 📫 How to reach me: **tranafbaskevin@gmail.com** or **(tranafbaskevin.github.io)[https://tranafbaskevin.github.io/]**
+- ⚡ Fun fact: **I can convert my face into ASCII art for GitHub profile! 😎**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
