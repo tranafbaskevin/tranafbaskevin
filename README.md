@@ -1,47 +1,99 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/tranafbaskevin/tranafbaskevin/main/cyberpunk_banner.jpg" alt="KEVIN // SYSTEM BUILDER" width="100%" />
+</p>
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1000&color=00F0FF&center=true&vCenter=true&width=550&lines=I+build+systems%2C+not+just+apps;Flutter+%7C+Node.js+%7C+Godot;Building+RPG+engines+%26+cyber+apps" alt="Typing SVG" />
+  </a>
+</p>
+
 ```text
-:+*%::---------------:    .---------:::--:::-     tranafbaskevin@github
--++**------------       :   :  :-----:-+-+-+-     ---------------------
------+----+--+:: :.-:.-:-.  :.: : +++++----++     OS: ....................... macOS, Windows, Android, Ios, Linux
-++++-++-+-+++. .+-=***=%**====...+.:++-++++==     Uptime: ................................... 2 years
-++++++++++++..:*%%%%%%%%%%%%%%%%%::+-++-+-++=     Role: ................. Multi-stack Developer / Student
-+++++++++++-..+*%%%%%%%%%###%%%%%=-:.+--=-*-=     IDE: ............................... VS Code, Android Studio, Godot
-++++++++=+++..=%%:++.-####%*==-%%*   ==+*---+     
-+=++++==+--:#%@ %%#***-*%M *%*%#.-  .+-==--==     Languages.Programming: ..... Dart, JavaScript, GDScript
-+++=+++=+-:%#%=##%*=+* %@-%===%%%%#@=+++====-     Languages.Web: ............. HTML, CSS, React, Flutter
-=====+++-::@%%=#####% %#@# ##### %@%@--+++=-+     Languages.Real: ............ Vietnamese, English
-+=+=++++--::@%%%%%%=*=+**:+%=%##%=#@=+*=*+:=-     
-====++++---::::%%%%==-+===+*%*%%#:++=====+==+     Hobbies.Software: .......... Mobile Apps, Game Dev, Web
-+=++++++-----:..%%%%**%W@@%%#%%#:-++.-=++*-*-     Hobbies.Hardware: .......... Tech Gadgets, PC Building
-=+=+=+++------::.%%%%%*==*%##%*.:-+==+#=*+*-*     
-+++==+++-------::*%*%%###@##*%#.:-+=+==-*=-+-     - Contact -------------------------------------------
-+=+=+++++------:.%%%%%==+=*%###.-++=:=++-+==+     Email: ...................... tranafbaskevin@gmail.com
-==+=++=++-----: .%%%%%%%%%%##@##--+=+=+*-*===     GitHub: .................... github.com/tranafbaskevin
-==+===++--:   -%:+*%%%%%%%##@@@=..: .-**-=+=+     Facebook: .................. fb.com/tranafbaskevin
+> SYSTEM BOOT SEQUENCE INITIATED...
+> LOADING KERNEL MODULES... OK
+> INITIALIZING HUD INTERFACE... READY
+
+:+*%::---------------:    .---------:::--:::-     SYS.ID       :: tranafbaskevin@github
+-++**------------       :   :  :-----:-+-+-+-     SYS.TYPE     :: System Builder / Multi-stack Dev
+-----+----+--+:: :.-:.-:-.  :.: : +++++----++     SYS.OS       :: Arch Linux, macOS, Windows, iOS
+++++-++-+-+++. .+-=***=%**====...+.:++-++++==     SYS.UPTIME   :: 2+ Years
+++++++++++++..:*%%%%%%%%%%%%%%%%%::+-++-+-++=     SYS.CORE     :: Mobile Apps | RPG Engines | Ricing
++++++++++++-..+*%%%%%%%%%###%%%%%=-:.+--=-*-=     SYS.IDE      :: VS Code, Android Studio, Godot
++++++++=+++..=%%:++.-####%*==-%%*   ==+*---+     
++=++++==+--:#%@ %%#***-*%M *%*%#.-  .+-==--==     LANG.PRIMARY :: Dart, GDScript, JS / TS
++++=+++=+-:%#%=##%*=+* %@-%===%%%%#@=+++====-     LANG.HUMAN   :: Vietnamese (Native), English
+=====+++-::@%%=#####% %#@# ##### %@%@--+++=-+     
++=+=++++--::@%%%%%%=*=+**:+%=%##%=#@=+*=*+:=-     SYS.SPECS    :: Flutter ── Node.js ── Godot
+====++++---::::%%%%==-+===+*%*%%#:++=====+==+     SYS.HARDWARE :: Tech Gadgets | PC Building
++=++++++-----:..%%%%**%W@@%%#%%#:-++.-=++*-*-     
+=+=+=+++------::.%%%%%*==*%##%*.:-+==+#=*+*-*     - COMM.CHANNELS -------------------------------------
++++==+++-------::*%*%%###@##*%#.:-+=+==-*=-+-     EMAIL        :: tranafbaskevin@gmail.com
++=+++++------:.%%%%%==+=*%###.-++=:=++-+==+     GITHUB       :: github.com/tranafbaskevin
+==+=++=++-----: .%%%%%%%%%%##@##--+=+=+*-*===     FACEBOOK     :: fb.com/tranafbaskevin
+==+===++--:   -%:+*%%%%%%%##@@@=..: .-**-=+=+     -----------------------------------------------------
 ==+::.:::... ..%= *%%%%%%#####@+-::.:..:.::..     
-:::--:::--:::::..-.%%%#%%###@#+::..:.:-::::::     - GitHub Stats --------------------------------------
----------:--:--::++: .@###@W.%=+::::-::-:::::     Repos: .... 6 | Stars: .... 1 | Commits: .... 276
--------:--::::::..+++.. .....+W=.::::::::::::     
+:::--:::--:::::..-.%%%#%%###@#+::..:.:-::::::
+---------:--:--::++: .@###@W.%=+::::-::-:::::
+-------:--::::::..+++.. .....+W=.::::::::::::
 ::::::::::::.:::::+:# ..:...=W+.::::::::::::.
 ```
 
-- 🔭 I'm currently working on **KevDex & Memory Distortion ( HORROR GAME )**
-- 🌱 I'm currently learning **Flutter, Game Development with Godot & System Architecture**
-- 👯 I'm looking to collaborate on **Open-source Flutter apps or Indie Game projects**
-- 💬 Ask me about **Flutter, GDScript, Dark Mode designs & UI/UX**
-- 📬 How to reach me: **tranafbaskevin@gmail.com** or **[tranafbaskevin.github.io](https://tranafbaskevin.github.io/)**
-- ⚡ Fun fact: **I can convert my face into ASCII art for GitHub profile! 😁**
+---
 
-### 🚀 Featured Projects & Work
+### 📡 ACTIVE SYSTEMS & MODULES
 
-- 📖 **KevDex**: Dark mode Google Drive comic reader app built with Flutter.
-- 🎮 **Memory Distortion**: Indie horror game project developed with Godot Engine.
-- 🌐 **Linhapple Web**: Web application & digital ecosystem tailored for Linhapple.
-- 💻 **Portfolio Hacker System**: Interactive cyberpunk/hacker-themed personal portfolio website.
-- ⚙️ **Linux Arch Customize**: Custom Arch Linux rice, system configurations, and dotfiles setup.
-- 🧠 **Dora Memories Core**: Core system framework & backend memory management module.
-- 🤖 **Discord Game Bot**: Interactive game bot integration with custom commands for Discord communities.
-- 📱 **iOS Premium Certificate**: iOS IPA signing, sideloading tools & certificate management for premium apps.
+```yaml
+[MODULE::01] KevDex
+├─ TYPE     : Manga Platform
+├─ STACK    : Flutter / React / Node.js
+└─ STATUS   : ONLINE // ACTIVE DEVELOPMENT
+
+[MODULE::02] Dora-bot
+├─ TYPE     : RPG Engine
+├─ STACK    : Node.js / TypeScript / AI Interop
+└─ STATUS   : RUNNING // CORE ENGINE
+
+[MODULE::03] Memory Distortion
+├─ TYPE     : Cyberpunk Game
+├─ STACK    : Godot Engine / GDScript
+└─ STATUS   : DEPLOYED // IN-GAME KERNEL
+```
+
+---
+
+### ⚙️ TECH STACK & SYSTEM MODULES
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/243a2b05-e176-4db4-b14b-669decd71c9d" width="100%" alt="Steam Zzz GIF" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=arch,flutter,dart,godot,react,nodejs,ts,js,html,css,git,vscode" />
+  </a>
 </p>
+
+---
+
+### 📊 SYSTEM METRICS & PERFORMANCE
+
+<p align="center">
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=tranafbaskevin&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=00f0ff&icon_color=00f0ff&text_color=c9d1d9&border_color=30363d"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tranafbaskevin&layout=compact&theme=tokyonight&hide=html,css&bg_color=0d1117&title_color=00f0ff&text_color=c9d1d9&border_color=30363d"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tranafbaskevin&theme=tokyonight&background=0D1117&border=30363D&stroke=00F0FF&ring=9D00FF&fire=00F0FF&currStreakNum=00F0FF&sideNums=C9D1D9&sideTitle=00F0FF" />
+</p>
+
+---
+
+<p align="center">
+  <a href="mailto:tranafbaskevin@gmail.com">
+    <img src="https://img.shields.io/badge/EMAIL-tranafbaskevin%40gmail.com-00F0FF?style=for-the-badge&logo=gmail&logoColor=black" />
+  </a>
+  <a href="https://fb.com/tranafbaskevin">
+    <img src="https://img.shields.io/badge/FACEBOOK-fb.com%2Ftranafbaskevin-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+</p>
+
+```text
+> STATUS: ALL SYSTEMS OPERATIONAL
+> END OF TRANSMISSION // tranafbaskevin@github
+```
