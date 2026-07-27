@@ -13,12 +13,12 @@
 > LOADING KERNEL MODULES... OK
 > INITIALIZING HUD INTERFACE... READY
 
-:+*%::---------------:    .---------:::--:::-     SYS.ID     :: tranafbaskevin@github
--++**------------       :   :  :-----:-+-+-+-     SYS.TYPE   :: System Builder / Multi-stack Dev
------+----+--+:: :.-:.-:-.  :.: : +++++----++     SYS.OS     :: Arch Linux, Android, iOS, macOS, Windows
-++++-++-+-+++. .+-=***=%**====...+.:++-++++==     SYS.UPTIME :: 2+ Years
-++++++++++++..:*%%%%%%%%%%%%%%%%%::+-++-+-++=     SYS.CORE   :: Mobile Apps | RPG Engines | Ricing
-+++++++++++-..+*%%%%%%%%%###%%%%%=-:.+--=-*-=     SYS.IDE    :: VS Code, Android Studio, Godot
+:+*%::---------------:    .---------:::--:::-     SYS.ID       :: tranafbaskevin@github
+-++**------------       :   :  :-----:-+-+-+-     SYS.TYPE     :: System Builder / Multi-stack Dev
+-----+----+--+:: :.-:.-:-.  :.: : +++++----++     SYS.OS       :: Android, Arch Linux, macOS, iOS, Windows
+++++-++-+-+++. .+-=***=%**====...+.:++-++++==     SYS.UPTIME   :: 2+ Years
+++++++++++++..:*%%%%%%%%%%%%%%%%%::+-++-+-++=     SYS.CORE     :: Mobile Apps | RPG Engines | Ricing
++++++++++++-..+*%%%%%%%%%###%%%%%=-:.+--=-*-=     SYS.IDE      :: VS Code, Android Studio, Godot
 +++++++=+++..=%%:++.-####%*==-%%*   ==+*---+     
 +=++++==+--:#%@ %%#***-*%M *%*%#.-  .+-==--==     LANG.PRIMARY :: Dart, GDScript, JS / TS
 +++=+++=+-:%#%=##%*=+* %@-%===%%%%#@=+++====-     LANG.HUMAN   :: Vietnamese (Native), English
@@ -27,9 +27,9 @@
 ====++++---::::%%%%==-+===+*%*%%#:++=====+==+     SYS.HARDWARE :: Tech Gadgets | PC Building
 +=++++++-----:..%%%%**%W@@%%#%%#:-++.-=++*-*-     
 =+=+=+++------::.%%%%%*==*%##%*.:-+==+#=*+*-*     - COMM.CHANNELS -------------------------------------
-+++==+++-------::*%*%%###@##*%#.:-+=+==-*=-+-     EMAIL    :: tranafbaskevin@gmail.com
-+=+++++------:.%%%%%==+=*%###.-++=:=++-+==+     GITHUB   :: github.com/tranafbaskevin
-==+=++=++-----: .%%%%%%%%%%##@##--+=+=+*-*===     FACEBOOK :: fb.com/tranbakevin
++++==+++-------::*%*%%###@##*%#.:-+=+==-*=-+-     EMAIL        :: tranafbaskevin@gmail.com
++=+++++------:.%%%%%==+=*%###.-++=:=++-+==+     GITHUB       :: github.com/tranafbaskevin
+==+=++=++-----: .%%%%%%%%%%##@##--+=+=+*-*===     FACEBOOK     :: fb.com/tranbakevin
 ==+===++--:   -%:+*%%%%%%%##@@@=..: .-**-=+=+     -----------------------------------------------------
 ==+::.:::... ..%= *%%%%%%#####@+-::.:..:.::..     
 :::--:::--:::::..-.%%%#%%###@#+::..:.:-::::::
@@ -74,8 +74,8 @@
 ### 📊 SYSTEM METRICS & PERFORMANCE
 
 <p align="center">
-  <img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=tranafbaskevin&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=tranafbaskevin&layout=compact&theme=tokyonight&hide=html,css" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tranafbaskevin&theme=tokyonight" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tranafbaskevin&theme=tokyonight" />
 </p>
 
 <p align="center">
