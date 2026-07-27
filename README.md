@@ -74,12 +74,16 @@
 ### 📊 SYSTEM METRICS & PERFORMANCE
 
 <p align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=tranafbaskevin&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=00f0ff&icon_color=00f0ff&text_color=c9d1d9&border_color=30363d"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tranafbaskevin&layout=compact&theme=tokyonight&hide=html,css&bg_color=0d1117&title_color=00f0ff&text_color=c9d1d9&border_color=30363d"/>
+  <img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=tranafbaskevin&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=tranafbaskevin&layout=compact&theme=tokyonight&hide=html,css" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tranafbaskevin&theme=tokyonight&background=0D1117&border=30363D&stroke=00F0FF&ring=9D00FF&fire=00F0FF&currStreakNum=00F0FF&sideNums=C9D1D9&sideTitle=00F0FF" />
+  <img src="https://streak-stats.demolab.com/?user=tranafbaskevin&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tranafbaskevin&theme=tokyonight&bg_color=0d1117&color=00f0ff&line=00f0ff&point=ffffff&area=true&hide_border=true" />
 </p>
 
 ---
