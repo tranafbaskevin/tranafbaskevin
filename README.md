@@ -13,12 +13,12 @@
 > LOADING KERNEL MODULES... OK
 > INITIALIZING HUD INTERFACE... READY
 
-:+*%::---------------:    .---------:::--:::-     SYS.ID       :: tranafbaskevin@github
--++**------------       :   :  :-----:-+-+-+-     SYS.TYPE     :: System Builder / Multi-stack Dev
------+----+--+:: :.-:.-:-.  :.: : +++++----++     SYS.OS       :: Arch Linux, Android, iOS, macOS, Windows
-++++-++-+-+++. .+-=***=%**====...+.:++-++++==     SYS.UPTIME   :: 2+ Years
-++++++++++++..:*%%%%%%%%%%%%%%%%%::+-++-+-++=     SYS.CORE     :: Mobile Apps | RPG Engines | Ricing
-+++++++++++-..+*%%%%%%%%%###%%%%%=-:.+--=-*-=     SYS.IDE      :: VS Code, Android Studio, Godot
+:+*%::---------------:    .---------:::--:::-     SYS.ID     :: tranafbaskevin@github
+-++**------------       :   :  :-----:-+-+-+-     SYS.TYPE   :: System Builder / Multi-stack Dev
+-----+----+--+:: :.-:.-:-.  :.: : +++++----++     SYS.OS     :: Arch Linux, Android, iOS, macOS, Windows
+++++-++-+-+++. .+-=***=%**====...+.:++-++++==     SYS.UPTIME :: 2+ Years
+++++++++++++..:*%%%%%%%%%%%%%%%%%::+-++-+-++=     SYS.CORE   :: Mobile Apps | RPG Engines | Ricing
++++++++++++-..+*%%%%%%%%%###%%%%%=-:.+--=-*-=     SYS.IDE    :: VS Code, Android Studio, Godot
 +++++++=+++..=%%:++.-####%*==-%%*   ==+*---+     
 +=++++==+--:#%@ %%#***-*%M *%*%#.-  .+-==--==     LANG.PRIMARY :: Dart, GDScript, JS / TS
 +++=+++=+-:%#%=##%*=+* %@-%===%%%%#@=+++====-     LANG.HUMAN   :: Vietnamese (Native), English
@@ -27,9 +27,9 @@
 ====++++---::::%%%%==-+===+*%*%%#:++=====+==+     SYS.HARDWARE :: Tech Gadgets | PC Building
 +=++++++-----:..%%%%**%W@@%%#%%#:-++.-=++*-*-     
 =+=+=+++------::.%%%%%*==*%##%*.:-+==+#=*+*-*     - COMM.CHANNELS -------------------------------------
-+++==+++-------::*%*%%###@##*%#.:-+=+==-*=-+-     EMAIL        :: tranafbaskevin@gmail.com
-+=+++++------:.%%%%%==+=*%###.-++=:=++-+==+     GITHUB       :: github.com/tranafbaskevin
-==+=++=++-----: .%%%%%%%%%%##@##--+=+=+*-*===     FACEBOOK     :: fb.com/tranbakevin
++++==+++-------::*%*%%###@##*%#.:-+=+==-*=-+-     EMAIL    :: tranafbaskevin@gmail.com
++=+++++------:.%%%%%==+=*%###.-++=:=++-+==+     GITHUB   :: github.com/tranafbaskevin
+==+=++=++-----: .%%%%%%%%%%##@##--+=+=+*-*===     FACEBOOK :: fb.com/tranbakevin
 ==+===++--:   -%:+*%%%%%%%##@@@=..: .-**-=+=+     -----------------------------------------------------
 ==+::.:::... ..%= *%%%%%%#####@+-::.:..:.::..     
 :::--:::--:::::..-.%%%#%%###@#+::..:.:-::::::
