@@ -15,7 +15,7 @@
 
 :+*%::---------------:    .---------:::--:::-     SYS.ID       :: tranafbaskevin@github
 -++**------------       :   :  :-----:-+-+-+-     SYS.TYPE     :: System Builder / Multi-stack Dev
------+----+--+:: :.-:.-:-.  :.: : +++++----++     SYS.OS       :: Arch Linux, macOS, Windows, iOS
+-----+----+--+:: :.-:.-:-.  :.: : +++++----++     SYS.OS       :: Arch Linux, Android, iOS, macOS, Windows
 ++++-++-+-+++. .+-=***=%**====...+.:++-++++==     SYS.UPTIME   :: 2+ Years
 ++++++++++++..:*%%%%%%%%%%%%%%%%%::+-++-+-++=     SYS.CORE     :: Mobile Apps | RPG Engines | Ricing
 +++++++++++-..+*%%%%%%%%%###%%%%%=-:.+--=-*-=     SYS.IDE      :: VS Code, Android Studio, Godot
